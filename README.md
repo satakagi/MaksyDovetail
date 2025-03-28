@@ -10,6 +10,8 @@ MAKSY GO 60は丁度良いアリガタが組みつけられて販売されてい
 
 なお、写真(未登録)は一つ前のバージョンの試作版で、ここに公開した設計図のバージョンはまだプリントして試していないので何か問題があるかもしれません。自己責任で使用してください。
 
+[MaksyDovetail.stl](./MaksyDovetail.stl)
+
 ## ライセンス
 * [TAPR Open Hardware License (OHL)](https://tapr.org/the-tapr-open-hardware-license/)
   * https://files.tapr.org/OHL/TAPR_Open_Hardware_License_v1.0.txt
