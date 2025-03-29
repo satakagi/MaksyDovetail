@@ -1,6 +1,8 @@
 # MaksyDovetail : MAKSY60用簡易アリガタ
 Dovetail Plate for ACUTER OPTICS MAKSY60
 
+![MAKSY60dovetail.jpg](./MAKSY60dovetail.jpg)
+
 ## 説明
 サイトロンジャパンで扱っている[ACUTER OPTICS MAKSY60](https://www.sightron.co.jp/product/maksy60-newtony.html)用のアリガタです。
 MAKSY GO 60は丁度良いアリガタが組みつけられて販売されていますが、このパーツは単体で入手できません。
@@ -8,7 +10,7 @@ MAKSY GO 60は丁度良いアリガタが組みつけられて販売されてい
 
 パーツが左右分割されているのは、アリミゾのクランプ力を逃がすためです。
 
-なお、写真(未登録)は一つ前のバージョンの試作版で、ここに公開した設計図のバージョンはまだプリントして試していないので何か問題があるかもしれません。自己責任で使用してください。
+なお、写真は一つ前のバージョンの試作版で若干の差異があります。ここに公開した設計図のバージョンはまだプリントして試していないので何か問題があるかもしれません。自己責任で使用してください。
 
 [MaksyDovetail.stl](./MaksyDovetail.stl) (3Dビューアでモデルを見る)
 
